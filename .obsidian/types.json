@@ -1,0 +1,14 @@
+{
+  "types": {
+    "type": "text",
+    "status": "text",
+    "created": "date",
+    "next_review": "date",
+    "topics": "multitext",
+    "source": "text",
+    "author": "text",
+    "tags": "tags",
+    "aliases": "aliases",
+    "cssclasses": "multitext"
+  }
+}

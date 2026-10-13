@@ -1,0 +1,10 @@
+.DS_Store
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/plugins/
+.obsidian/themes/
+.trash/
+.env
+.env.*
+*.tmp
+*.swp
